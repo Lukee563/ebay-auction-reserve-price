@@ -1,8 +1,7 @@
 # eBay Auction Reserve Price Analysis
 
 Empirical analysis of reserve price effects on auction revenue using eBay bid-level data,
-with connections to Myerson's optimal mechanism. Built as a portfolio piece ahead of joining
-Amazon's Ads Economics team.
+with connections to Myerson's optimal mechanism. Built as a portfolio piece ahead of joining Amazon's Ads Economics team.
 
 ## Research Question
 

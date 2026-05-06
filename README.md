@@ -40,6 +40,7 @@ ebay-auction-reserve-price/
 └── requirements.txt
 ```
 ## Requirements
+```
 pandas
 numpy
 statsmodels
@@ -47,3 +48,4 @@ scipy
 matplotlib
 seaborn
 jupyter
+```

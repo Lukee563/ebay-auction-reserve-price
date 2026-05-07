@@ -22,10 +22,10 @@ Wiley, 2010), sourced via Kaggle. Covers four item categories across two auction
 
 ## Analysis
 
-1. **Descriptive** — Bidding dynamics by item category and auction format
-2. **Revenue Regression** — Effect of opening bid on final price, controlling for item,
+1. **Descriptive**: Bidding dynamics by item category and auction format
+2. **Revenue Regression**: Effect of opening bid on final price, controlling for item,
    duration, number of bidders, and bidder rating
-3. **Structural** — Back out implied buyer valuations from the bid sequence and compare
+3. **Structural**: Back out implied buyer valuations from the bid sequence and compare
    observed reserve prices to the Myerson optimal benchmark
 
 ## Project Structure
